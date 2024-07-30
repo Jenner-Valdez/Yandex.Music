@@ -10,3 +10,7 @@
 - The amount of active users daily, weekly and monthly in case a maintenance is required in the future.
 
 ## Images
+![Image](Datasets/img/daily_user.PNG)
+![Image](Datasets/img/monthly_revenue.PNG)
+![Image](Datasets/img/orders_month.PNG)
+![Image](Datasets/img/monthly_cost.PNG)

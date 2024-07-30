@@ -1,2 +1,12 @@
 # Yandex.Music
+
+## Overview
 - Find the best selling moment for our subscription based yandex music platform.
+
+## What is the reason for the project
+- Yandex.music is trying to find the best moment to advertise their subscription during the year.
+- They are trying to figure out the playtform that is more profitable for them.
+- The type of ad that brings more revenue so increase the amount spent on this ad for the upcoming year.
+- The amount of active users daily, weekly and monthly in case a maintenance is required in the future.
+
+## Images

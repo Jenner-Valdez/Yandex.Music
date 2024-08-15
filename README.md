@@ -14,5 +14,10 @@
 ![Image](Datasets/img/orders_month.PNG)
 ![Image](Datasets/img/monthly_cost.PNG)
 
+### Conclusion
+- The month with the most number of orders is Novemeber and December with nearly 12k orders within both months.
+- Source 3 is the source that costs to most for it to advertise.
+- The monthly revenue start to increase around September until January, there for these are the best moment to advertise.
+
 ### Technologies
 * This code was almost 100% build using Jupyter notebook. Through anaconda and Visual Studio as the platform to edit the code.
